@@ -5,6 +5,7 @@
 * lime
 * salt
 ## Instructions
+*put one avocado into a bowl.
 ## Price
 * avocado - $2
 * lime - $1
