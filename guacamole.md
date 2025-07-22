@@ -5,6 +5,7 @@
 * lime
 * salt
 ## Instructions
+* peel the avocados
 ## Price
 * avocado - $2
 * lime - $1
